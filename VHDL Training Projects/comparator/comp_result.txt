@@ -1,0 +1,2 @@
+ a= 20 b= 20 eq= 1 neq= 0  real eq= 1  real neq= 0 test passed:
+ a= 21 b= 20 eq= 0 neq= 1  real eq= 1  real neq= 0 faild error msg: "error found2

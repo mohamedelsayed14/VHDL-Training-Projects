@@ -1,0 +1,3 @@
+mul 4 2 8 "Problem With multiplication operation."
+sub 4 2 2 "Problem With subtraction operation."
+add 4 2 6 "Problem With additiion operation."

@@ -1,0 +1,5 @@
+ time now:30 ns even x=0 expected_y=0  real_y=0 <test passed>
+ time now:52 ns even x=1 expected_y=1  real_y=1 <test passed>
+ time now:74 ns oddd x=0 expected_y=1  real_y=1 <test passed>
+ time now:96 ns oddd x=1 expected_y=0  real_y=0 <test passed>
+ time now:118 ns even x=0 expected_y=0  real_y=0 <test passed>

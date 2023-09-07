@@ -1,0 +1,11 @@
+w=0 in_addr=0 in_data=0 r=0 out_addr=0 
+w=1 in_addr=1 in_data=2 r=1 out_addr=0
+w=1 in_addr=2 in_data=4 r=1 out_addr=1
+w=1 in_addr=3 in_data=6 r=1 out_addr=2
+w=1 in_addr=4 in_data=8 r=1 out_addr=3
+w=1 in_addr=5 in_data=10 r=1 out_addr=4
+w=1 in_addr=6 in_data=12 r=1 out_addr=5
+w=0 in_addr=7 in_data=14 r=1 out_addr=6
+w=0 in_addr=7 in_data=14 r=1 out_addr=7
+w=1 in_addr=7 in_data=14 r=0 out_addr=7
+w=1 in_addr=7 in_data=14 r=1 out_addr=7

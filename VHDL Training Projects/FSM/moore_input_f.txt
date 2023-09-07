@@ -1,0 +1,5 @@
+10 ns even x=0 expected_y=0
+20 ns even x=1 expected_y=0
+20 ns oddd x=0 expected_y=1
+20 ns oddd x=1 expected_y=1
+20 ns even x=0 expected_y=0

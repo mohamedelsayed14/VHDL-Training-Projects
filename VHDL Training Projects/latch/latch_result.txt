@@ -1,0 +1,3 @@
+time is now30 ns d= 1 clk= 1 q= 1 nq= 0  real q= 1  real nq= 0 test passed:
+time is now45 ns d= 1 clk= 0 q= 1 nq= 0  real q= 1  real nq= 0 test passed:
+time is now60 ns d= 0 clk= 1 q= 0 nq= 1  real q= 0  real nq= 1 test passed:

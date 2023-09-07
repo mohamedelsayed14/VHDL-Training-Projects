@@ -1,0 +1,13 @@
+w_op en=0 address=0 data_in=0
+w_op en=1 address=1 data_in=1
+w_op en=1 address=2 data_in=2
+w_op en=1 address=3 data_in=3
+w_op en=1 address=4 data_in=4
+r_op en=1 address=1
+r_op en=1 address=2
+r_op en=1 address=3
+r_op en=1 address=4
+w_op en=1 address=5 data_in=5
+r_op en=1 address=5
+w_op en=0 address=6 data_in=6
+r_op en=0 address=1

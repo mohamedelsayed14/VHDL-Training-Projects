@@ -1,0 +1,3 @@
+mul A=4 B=2 Exp_Out=8 Real_Out=8 >> Test Passed.
+sub A=4 B=2 Exp_Out=2 Real_Out=2 >> Test Passed.
+add A=4 B=2 Exp_Out=6 Real_Out=6 >> Test Passed.
